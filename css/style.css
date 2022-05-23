@@ -143,7 +143,7 @@ footer .menu li a{
     transition: 0.5s;
 }
 footer .social-icon li a:hover{
-    transform: translatey(-10px);
+    transform: translatey(-11px);
 }
 footer .menu li a{
     font-size: 1.2em;
